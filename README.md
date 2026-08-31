@@ -1,6 +1,7 @@
 # depa-national-winner
 IoT &amp; Edge AI safety monitoring system for school environments. National level competition winner at depa.
 # 🏆 depa National Level Project: Smart Safety & Monitoring Box
+Team เด็กitหัวใจนวัฒกรรม
 
 IoT & Edge AI safety monitoring system for school environments that detects smoke/hazards, captures footage, and alerts security. This project is a **National Winner** in the depa competition.
 
@@ -10,4 +11,5 @@ IoT & Edge AI safety monitoring system for school environments that detects smok
 * **Real-time Alert:** Sends notifications and image logs to school authorities or security guards.
 
 ## 📸 Victory & Competition Photos
-![Uploading FB_IMG_1783410303986.jpg…]()
+<img width="1200" height="1200" alt="FB_IMG_1783410303986" src="https://github.com/user-attachments/assets/d1b5d2da-41eb-4abc-bb81-5ec3b83b0c5f" />
+
